@@ -1,0 +1,4 @@
+﻿  trabalhoRanking.cpp
+C:\Users\diego\source\repos\trabalhoRanking\trabalhoRanking\game.h(20,5): error C2672: 'gerar_jogadores_estatica': no matching overloaded function found
+C:\Users\diego\source\repos\trabalhoRanking\trabalhoRanking\game.h(20,39): error C2780: 'void TLS::gerar_jogadores_estatica(TLS::TListaEstatica<T,CAPACIDADE>,T)': expects 2 arguments - 1 provided
+C:\Users\diego\source\repos\trabalhoRanking\trabalhoRanking\estatica.h(153): message : see declaration of 'TLS::gerar_jogadores_estatica'
